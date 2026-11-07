@@ -1,0 +1,59 @@
+{
+  "embedding_model": "gemini-embedding-001",
+  "total_chunks": 10,
+  "sources": [
+    "panduan_vieguard.txt"
+  ],
+  "chunks": [
+    {
+      "id": 1,
+      "text": "PROFIL VIEGUARD KOSTUM DAN DRUMBAND\nVieguard adalah pusat konveksi, penjualan, dan penyewaan kostum drumband, marching band, pakaian pawai karnaval, serta perlengkapan seni pertunjukan terpercaya di Kota Malang, Jawa Timur. Kami melayani pemesanan untuk sekolah jenjang TK, SD, SMP, SMA/SMK, universitas, instansi kedinasan, maupun sanggar seni di seluruh Indonesia. Galeri dan workshop kami buka setiap hari Senin sampai Sabtu pukul 08.00–17.00 WIB, dengan layanan konsultasi online dan pemesanan yang siap melayani kebutuhan acara Anda.",
+      "source": "panduan_vieguard.txt"
+    },
+    {
+      "id": 2,
+      "text": "KATALOG PRODUK, KOSTUM DRUMBAND, DAN AKSESORIS\nKatalog Vieguard menyediakan tiga kategori utama: 1) Kostum Drumband, meliputi seragam pasukan, mayoret, field commander, dan gitapati dengan bahan American Drill berkualitas yang adem, tebal, dan tahan lama; 2) Kostum Pawai dan Karnaval, mencakup busana kreasi nusantara, pakaian tari adat, kostum Reog & Warok Ponorogo, serta sayap karnaval megah; 3) Aksesoris Pelengkap, seperti topi pet drumband (shako), bulu topi unggas, selempang bordir nama sekolah, epolet bahu, sarung tangan parade, dan sepatu boots drumband.",
+      "source": "panduan_vieguard.txt"
+    },
+    {
+      "id": 3,
+      "text": "SYARAT DAN PROSEDUR PENYEWAAN KOSTUM (RENTAL)\nLayanan sewa kostum ditujukan untuk acara parade, perlombaan marching band, peringatan HUT RI 17 Agustus, maupun festival budaya. Pelanggan memilih model kostum dan ukuran (S, M, L, XL, atau All Size) pada katalog, menentukan tanggal acara serta tanggal pengembalian. Pelanggan wajib mengunggah foto kartu identitas resmi yang masih berlaku (KTP, SIM, atau Kartu Pelajar/KTM). Identitas asli diserahkan sebagai jaminan saat serah terima barang dan akan dikembalikan utuh saat kostum kembali lengkap.",
+      "source": "panduan_vieguard.txt"
+    },
+    {
+      "id": 4,
+      "text": "FITTING UKURAN, PENGAMBILAN BARANG, DAN SERAH TERIMA\nPelanggan sangat disarankan melakukan fitting (uji pas ukuran baju) langsung di Galeri Vieguard sebelum hari pelaksanaan acara untuk memastikan kenyamanan pemakai. Ketika status pesanan di website/aplikasi berubah menjadi 'siap_diambil', pelanggan dapat mengambil paket kostum di galeri kami. Pelanggan dan staf toko akan memeriksa bersama jumlah kancing, kelengkapan aksesoris (topi, bulu, selempang, sabuk), serta memastikan kondisi kain dalam keadaan bersih dan rapi sebelum status rental beralih menjadi 'diambil'.",
+      "source": "panduan_vieguard.txt"
+    },
+    {
+      "id": 5,
+      "text": "KETENTUAN PENGEMBALIAN, LAUNDRY, DAN DENDA KETERLAMBATAN\nBiaya sewa di Vieguard sudah termasuk biaya laundry standar, sehingga pelanggan TIDAK PERLU MENCUCI kostum setelah digunakan (cukup diangin-anginkan agar tidak berjamur atau lembap). Kostum wajib dikembalikan paling lambat pada tanggal akhir sewa sebelum pukul 17.00 WIB. Keterlambatan pengembalian tanpa konfirmasi perpanjangan sebelumnya dikenakan denda sebesar Rp25.000 hingga Rp50.000 per kostum per hari agar tidak mengganggu jadwal penyewa lain yang sudah memesan setelahnya.",
+      "source": "panduan_vieguard.txt"
+    },
+    {
+      "id": 6,
+      "text": "TANGGUNG JAWAB KERUSAKAN, NODA PERMANEN, DAN KEHILANGAN AKSESORIS\nPenyewa bertanggung jawab menjaga keutuhan kostum selama masa peminjaman. Kerusakan ringan seperti kancing lepas yang masih tersimpan tidak dikenakan biaya perbaikan. Namun, apabila kostum mengalami sobek besar, terbakar kembang api/rokok, terkena noda permanen yang tidak bisa hilang, atau kehilangan aksesoris (seperti topi, bulu ayam, atau selempang), penyewa wajib mengganti biaya perbaikan atau biaya penggantian aksesoris sesuai daftar harga resmi komponen toko.",
+      "source": "panduan_vieguard.txt"
+    },
+    {
+      "id": 7,
+      "text": "PEMBELIAN KOSTUM BARU (BELI) DAN GARANSI JAHITAN\nBagi sekolah atau kelompok drumband yang ingin memiliki seragam inventaris sendiri, Vieguard melayani pembelian kostum baru dalam jumlah satuan maupun puluhan pasang. Pembelian seragam baru mendapatkan garansi kerapian jahitan selama 30 hari sejak barang diterima. Apabila terdapat jahitan lepas atau ketidaksesuaian ukuran awal dari data pemesanan, Vieguard menyediakan layanan permak dan perbaikan gratis tanpa dipungut biaya tambahan.",
+      "source": "panduan_vieguard.txt"
+    },
+    {
+      "id": 8,
+      "text": "LAYANAN JAHIT KOSTUM KUSTOM (CUSTOM ORDER DESAIN SENDIRI)\nVieguard melayani pembuatan kostum drumband dan karnaval custom sesuai identitas warna institusi, logo bordir sekolah, dan desain khusus permintaan pelanggan. Alur custom meliputi: konsultasi tema desain &rarr; pemilihan bahan kain & kombinasi warna &rarr; penyerahan data ukuran badan anggota &rarr; pembuatan sampel &rarr; proses jahit massal di konveksi kami. Waktu pengerjaan jahit custom berkisar antara 2 hingga 4 minggu tergantung pada tingkat kerumitan model dan jumlah pesanan seragam.",
+      "source": "panduan_vieguard.txt"
+    },
+    {
+      "id": 9,
+      "text": "SISTEM PEMBAYARAN, KETENTUAN DP 50%, DAN PELUNASAN 50%\nVieguard mendukung pembayaran otomatis via payment gateway Midtrans (QRIS seluruh e-wallet, Virtual Account BCA, Mandiri, BNI, BRI) serta transfer bank manual ke rekening resmi toko. Untuk setiap pesanan penyewaan kostum maupun jahit custom seragam baru, sistem pembayaran menggunakan skema Down Payment (DP) sebesar 50% dari total tagihan di awal sebagai tanda jadi untuk mengunci jadwal tanggal sewa atau antrean produksi jahit. Sisa pembayaran pelunasan sebesar 50% dibayarkan di akhir, yaitu pada saat pengambilan kostum di toko atau sebelum barang dikirimkan melalui ekspedisi.",
+      "source": "panduan_vieguard.txt"
+    },
+    {
+      "id": 10,
+      "text": "PENGIRIMAN LUAR KOTA, PEMBATALAN SEWA, DAN REFUND\nVieguard melayani pengiriman sewa maupun pembelian seragam ke seluruh wilayah Indonesia melalui ekspedisi kargo terpercaya (Indah Logistik, JNE Trucking, Lion Parcel, J&T). Pembatalan sewa yang diajukan maksimal H-7 sebelum tanggal penggunaan dapat memperoleh pengembalian dana (refund) DP dengan potongan biaya administrasi 20%. Pembatalan sewa mendadak (kurang dari H-3) tidak dapat di-refund karena kostum telah diblokir untuk pelanggan lain. Pesanan jahit custom yang kainnya telah dipotong atau dijahit tidak dapat dibatalkan secara sepihak.",
+      "source": "panduan_vieguard.txt"
+    }
+  ]
+}
