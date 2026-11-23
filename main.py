@@ -52,7 +52,7 @@ app = create_app()
 if __name__ == "__main__":
     host = os.getenv("HOST", "0.0.0.0")
     port = int(os.getenv("PORT", 5001))
-    debug = os.getenv("DEBUG", "True").lower() in ("true", "1", "yes")
+    debug = os.getenv("DEBUG", "False").lower() in ("true", "1", "yes")
 
     print(f"🚀 Starting VieGuard AI Backend on http://{host}:{port}")
     app.run(host=host, port=port, debug=debug)
